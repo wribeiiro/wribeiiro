@@ -5,7 +5,7 @@
 
 ## Hello Devs! I'm Wellisson Ribeiro. 🧑🏻‍💻
 I'm 24 years old, from Curitiba-PR, but I've lived in Mafra-SC since my birth, married 💍 with Amanda, and Helena's 👶 and Lorena's 👶 father.
-Graduated in Analysis and Systems Development at UNOPAR. I have knowledge in UML, modeling and process management, focusing on Web development, working for more than 3 years in the area.
+Graduated in Analysis and Systems Development at UNOPAR. I have knowledge in UML, modeling and process management, focusing on Web development, working for more than 4 years in the area.
 I'm self-taught and I like to learn new technologies and i'm freelancer and also passionate about football ⚽, comic books 📚, games 🎮, lots of music and films 🎵🎞️.  
 
 - 👨‍💻 I’m currently work with web development, using PHP framework with Code Igniter 3, Javascript (Jquery), MySQL, HTML and CSS (Bootstrap) and Ionic 3 for Apps
