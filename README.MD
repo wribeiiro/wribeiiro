@@ -8,4 +8,4 @@ Hi Devs! I'm Wellisson Ribeiro. I'm 24 years old, from Curitiba-PR, but I've liv
 and Code Igniter v3/v4 Framework. I'm self-taught and I like to learn new technologies and i'm freelancer and also passionate about football ⚽, comic books 📚, games 🎮, lots of music and films 🎵 🎞️.
 
 - 💻 I’m currently work with web development, using PHP framework with Code Igniter 3, Javascript (Jquery), MySQL, HTML + CSS (Bootstrap) and destkop, work with Visual Basic 5, something Delphi, Mysql and Access for databases, C#, Java.
-- ⚙️ I have studied some technologies: Codeigniter 4, Laravel / Lumen and VueJS
+- ⚙️ I have studied some technologies: Backend => Codeigniter 4 and Laravel / Lumen;  Frontend => VueJS and React.
