@@ -1,4 +1,4 @@
-# Wellisson Ribeiro. 🧔🏻💻
+# Wellisson Ribeiro 🧔🏻💻
 [![Linkedin Badge](https://img.shields.io/badge/-wribeiiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellisson-ribeiro-655a0b179/)](https://www.linkedin.com/in/wellisson-ribeiro-655a0b179/) 
 [![Facebook Badge](https://img.shields.io/badge/-wellissonribeiro-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/wellissonribeiiro/)](https://www.facebook.com/wellissonribeiiro/) 
 [![Gmail Badge](https://img.shields.io/badge/-welleh10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welleh10@gmail.com)](mailto:welleh10@gmail.com)
