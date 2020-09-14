@@ -1,10 +1,40 @@
 # Wellisson Ribeiro 🧔🏻💻
-[![Linkedin Badge](https://img.shields.io/badge/-wribeiiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellisson-ribeiro-655a0b179/)](https://www.linkedin.com/in/wellisson-ribeiro-655a0b179/) 
-[![Facebook Badge](https://img.shields.io/badge/-wellissonribeiro-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/wellissonribeiiro/)](https://www.facebook.com/wellissonribeiiro/) 
-[![Gmail Badge](https://img.shields.io/badge/-welleh10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welleh10@gmail.com)](mailto:welleh10@gmail.com)
 
-Hi Devs! I'm Wellisson Ribeiro. I'm 24 years old, from Curitiba-PR, but I've lived in Mafra-SC since my birth, married, and father of two children. Graduated in Analysis and Systems Development at UNOPAR. Developer with some years of experience developing applications with PHP
-and Code Igniter v3/v4 Framework. I'm self-taught and I like to learn new technologies and i'm freelancer and also passionate about football ⚽, comic books 📚, games 🎮, lots of music and films 🎵 🎞️.
+```php
+<?php
 
-- 💻 I’m currently work with web development, using PHP framework with Code Igniter 3, Javascript (Jquery), MySQL, HTML + CSS (Bootstrap) and destkop, work with Visual Basic 5, something Delphi, Mysql and Access for databases, C#, Java.
-- ⚙️ I have studied some technologies: Backend => Codeigniter 4 and Laravel / Lumen;  Frontend => VueJS and React.
+class Wribeiiro extends FullstackDeveloper {
+
+    public function __construct() {
+        parent::__construct();
+
+        $this->fullname = "Wellisson Luiz Antunes Ribeiro";
+        $this->username = 'wribeiiro';
+
+        $this->aboutme = "I'm 24 years old, from Curitiba-PR, but I've lived in Mafra-SC since my birth, married, and father of two children. Graduated in Analysis and Systems Development at UNOPAR. Developer with some years of experience developing applications for web and desktop.";
+
+        $this->links = [
+            "linkedin" => "@wellisson-ribeiro",
+            "facebook" => "@wellissonribeiiro",
+            "website"  => "wribeiiro.com",
+            "email"    => "welleh10@gmail.com"
+        ];
+        
+        $this->technologies = [
+            "current_working" => [
+                "backend"  => ["PHP (Code Igniter 3)", "C#", "Visual Basic 5"],
+                "frontend" => ["Html", "Javascript (Jquery)", "Bootstrap"],
+                "database" => ["Mysql", "MSAccess"],
+                "mobile"   => "Ionic"
+            ],
+            "current_learning" => [
+                "backend"  => ["Codeigniter 4", "Laravel", "Lumen"],
+                "frontend" => ["VueJS", "React"]
+            ],
+            "tools" => ["Github", "Bitbucket", "Git"],
+            "architecture" => ["MVC", "Webservices", "APIs"]
+        ];
+    }
+}
+
+$me = new Wribeiiro();
