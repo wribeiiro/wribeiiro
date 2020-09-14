@@ -1,8 +1,8 @@
-# Wellisson Ribeiro 🧔🏻💻
-
 ```php
 <?php
-
+/**
+ * Wribeiiro class
+ */
 class Wribeiiro extends FullstackDeveloper {
 
     public function __construct() {
