@@ -23,15 +23,15 @@ class Wribeiiro extends FullstackDeveloper {
         $this->technologies = [
             "current_working" => [
                 "backend"  => ["PHP (Code Igniter 3)", "C#", "Visual Basic 5"],
-                "frontend" => ["Html", "Javascript (Jquery)", "Bootstrap"],
-                "database" => ["Mysql", "MSAccess"],
-                "mobile"   => "Ionic"
+                "frontend" => ["HTML", "CSS", "Javascript", "Jquery", "Bootstrap"],
+                "database" => ["MySql", "MariaDB", "MSAccess"],
+                "mobile"   => ["Ionic"]
             ],
             "current_learning" => [
                 "backend"  => ["Codeigniter 4", "Laravel", "Lumen"],
                 "frontend" => ["VueJS", "React"]
             ],
-            "tools" => ["Github", "Bitbucket", "Git"],
+            "tools" => ["Github", "Bitbucket", "Git", "Gulp"],
             "architecture" => ["MVC", "Webservices", "APIs"]
         ];
     }
