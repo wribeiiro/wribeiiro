@@ -15,7 +15,6 @@ class Wribeiiro extends FullstackDeveloper {
 
         $this->links = [
             "linkedin" => "@wellisson-ribeiro",
-            "facebook" => "@wellissonribeiiro",
             "website"  => "wribeiiro.com",
             "email"    => "welleh10@gmail.com"
         ];
