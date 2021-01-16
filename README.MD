@@ -1,9 +1,7 @@
 ```php
 <?php
-/**
- * Wribeiiro class
- */
-class Wribeiiro extends FullstackDeveloper {
+
+class Wribeiiro extends PHPDeveloper {
 
     public function __construct() {
         parent::__construct();
@@ -36,3 +34,5 @@ class Wribeiiro extends FullstackDeveloper {
 }
 
 $me = new Wribeiiro();
+
+print_r($me);
