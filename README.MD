@@ -11,7 +11,7 @@ class Wribeiiro extends FullstackDeveloper {
         $this->fullname = "Wellisson Luiz Antunes Ribeiro";
         $this->username = 'wribeiiro';
 
-        $this->aboutme = "I'm 24 years old, from Curitiba-PR, but I've lived in Mafra-SC since my birth, married, and father of two children. Graduated in Analysis and Systems Development at UNOPAR. Developer with some years of experience developing applications for web and desktop.";
+        $this->aboutme = "I'm 25 years old, from Curitiba-PR, but I've lived in Mafra-SC since my birth, married, and father of two children. Graduated in Analysis and Systems Development at UNOPAR. Developer with some years of experience developing applications for web and desktop.";
 
         $this->links = [
             "linkedin" => "@wellisson-ribeiro",
@@ -21,13 +21,12 @@ class Wribeiiro extends FullstackDeveloper {
         
         $this->technologies = [
             "current_working" => [
-                "backend"  => ["PHP (Code Igniter 3)", "C#", "Visual Basic 5"],
+                "backend"  => ["PHP"],
                 "frontend" => ["HTML", "CSS", "Javascript", "Jquery", "Bootstrap"],
-                "database" => ["MySql", "MariaDB", "MSAccess"],
-                "mobile"   => ["Ionic"]
+                "database" => ["MySQL", "MariaDB", "Postgres"]
             ],
             "current_learning" => [
-                "backend"  => ["Codeigniter 4", "Laravel", "Lumen"],
+                "backend"  => ["Codeigniter 4", "Laravel", "Lumen", "Python"],
                 "frontend" => ["VueJS", "React"]
             ],
             "tools" => ["Github", "Bitbucket", "Git", "Gulp"],
