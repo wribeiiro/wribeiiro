@@ -19,12 +19,12 @@ class Wribeiiro extends PHPDeveloper {
         
         $this->technologies = [
             "current_working" => [
-                "backend"  => ["PHP"],
+                "backend"  => ["PHP", "Codeigniter 4"],
                 "frontend" => ["HTML", "CSS", "Javascript", "Jquery", "Bootstrap"],
                 "database" => ["MySQL", "MariaDB", "Postgres"]
             ],
             "current_learning" => [
-                "backend"  => ["Codeigniter 4", "Laravel", "Lumen", "Python"],
+                "backend"  => ["Laravel", "Lumen", "Python"],
                 "frontend" => ["VueJS", "React"]
             ],
             "tools" => ["Github", "Bitbucket", "Git", "Gulp"],
