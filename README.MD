@@ -27,7 +27,7 @@ class Wribeiiro extends PHPDeveloper {
                 "backend"  => ["Laravel", "Lumen", "Python"]
             ],
             "tools" => ["Github", "Bitbucket", "Gitlab", "Jira", "Git"],
-            "architecture" => ["MVC", "Webservices", "APIs"]
+            "architecture" => ["MVC", "Webservices", "APIs", "SCRUM"]
         ];
     }
 }
