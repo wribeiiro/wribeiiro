@@ -21,11 +21,10 @@ class Wribeiiro extends PHPDeveloper {
             "current_working" => [
                 "backend"  => ["PHP", "Codeigniter 4"],
                 "frontend" => ["HTML", "CSS", "Javascript", "React"],
-                "database" => ["MySQL", "MariaDB", "Postgres", "Oracle"]
+                "database" => ["MySQL", "SqlServer", "MariaDB", "Postgres", "Oracle"]
             ],
             "current_learning" => [
-                "backend"  => ["Laravel", "Lumen", "Python"],
-                "frontend" => ["React"]
+                "backend"  => ["Laravel", "Lumen", "Python"]
             ],
             "tools" => ["Github", "Bitbucket", "Gitlab", "Jira", "Git"],
             "architecture" => ["MVC", "Webservices", "APIs"]
