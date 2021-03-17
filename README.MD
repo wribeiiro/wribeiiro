@@ -9,7 +9,7 @@ class Wribeiiro extends PHPDeveloper {
         $this->fullname = "Wellisson Luiz Antunes Ribeiro";
         $this->username = 'wribeiiro';
 
-        $this->aboutme = "Hi Devs 🖖! I'm Wellisson Ribeiro. I'm 25 years old, married, and father of two little girls. Graduated in Analysis and Systems Development at UNOPAR. Developer with some years of experience developing applications with different technologies, but with a focus on PHP (Code Igniter v3/v4, Laravel, Lumen Frameworks). I am currently work a software engineer at <a href='https://www.softexpert.com/'> SoftExpert </a>";
+        $this->aboutme = "Hi Devs 🖖! I'm Wellisson Ribeiro. I'm 25 years old, married, and father of two little girls. Graduated in Analysis and Systems Development at UNOPAR. Developer with some years of experience developing applications with different technologies, but with a focus on PHP (Code Igniter, Laravel, Lumen, VueJS, Frameworks). I am currently work a software engineer at SoftExpert.";
 
         $this->links = [
             "linkedin" => "@wellisson-ribeiro",
