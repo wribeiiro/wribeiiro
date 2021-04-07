@@ -1,4 +1,4 @@
-```bash
+```html
 <span style="color: #9466ff">wribeiiro@wribeiiro:~$<span> sudo --help aboutme
 Hi Devs 🖖! I'm Wellisson Ribeiro. I'm 25 years old, married, and father of two little girls.
 Graduated in Analysis and Systems Development at UNOPAR.
