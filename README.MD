@@ -59,7 +59,7 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/wellisson-ribeiro)
 &nbsp;
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" height="25" />](mailto:welleh10@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" title="Gmail" height="25" />](mailto:welleh10@gmail.com)
 &nbsp;
 [<img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" alt="Xbox Live" title="Xbox Live" height="25" />](Wbrucewayne)
 &nbsp;
