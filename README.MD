@@ -36,7 +36,7 @@
 &nbsp;
 [<img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white" height="25"/>][tech_tools_anchor]
 &nbsp;
-[<img alt="GitHub Actions" src="https://img.shields.io/badge/GithubActions-%232671E5.svg?logo=githubactions&logoColor=white" height="25"/>][tech_tools_anchor]
+[<img alt="GitHub Actions" src="https://img.shields.io/badge/Github Actions-%232671E5.svg?logo=githubactions&logoColor=white" height="25"/>][tech_tools_anchor]
 &nbsp;
 [<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" height="25"/>][tech_tools_anchor]
 &nbsp;
