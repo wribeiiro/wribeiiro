@@ -53,7 +53,7 @@
 &nbsp;
 [<img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&logo=laravel&logoColor=white" height="25"/>][tech_tools_anchor]
 &nbsp;
-[<img alt="English" src="https://img.shields.io/amo/dw/df" height="25"/>][tech_tools_anchor]
+[<img alt="English" src="https://img.shields.io/badge/English-English-red" height="25"/>][tech_tools_anchor]
 &nbsp;
 
 
