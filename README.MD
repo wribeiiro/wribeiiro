@@ -18,9 +18,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Visual Basic-5C2D91?logo=visual%20studio&logoColor=white" alt="Visual Basic" title="Visual Basic" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 &nbsp;
