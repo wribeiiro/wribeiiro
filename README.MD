@@ -73,6 +73,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Personal Website-21759B?logo=wordpress&logoColor=white" alt="Website" title="Website" height="25" />](https://www.wribeiiro.com/)
 
+## 🎧  What am i listening
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
