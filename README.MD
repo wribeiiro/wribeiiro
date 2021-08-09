@@ -81,7 +81,12 @@
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
-## 📈  What am i listening
-https://github-readme-stats.vercel.app/api?username=wribeiiro&show_icons=true&locale=en&layout=compact&n&theme=synthwave
+## 📈  My Statistics
+Top Languages             |  Stats
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api/top-langs?username=wribeiiro&show_icons=true&locale=en&theme=synthwave&layout=compact)  |  ![](https://github-readme-stats.vercel.app/api?username=wribeiiro&show_icons=true&locale=en&layout=compact&n&theme=synthwave)
+
+<img align="left" src="" alt="wribeiiro"/>
 <br>
-https://github-readme-stats.vercel.app/api/top-langs?username=wribeiiro&show_icons=true&locale=en&theme=synthwave&layout=compact
+<img align="center" src="" alt="wribeiiro"/>
+
