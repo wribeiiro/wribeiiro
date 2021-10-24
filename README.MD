@@ -83,10 +83,3 @@ I'm currently work as a software engineer at SoftExpert and studying some things
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 [tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
-
-### 📈  My Statistics
-Top Languages             |  Stats
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api/top-langs?username=wribeiiro&show_icons=true&locale=en&theme=synthwave&layout=compact)  |  ![](https://github-readme-stats.vercel.app/api?username=wribeiiro&show_icons=true&locale=en&layout=compact&n&theme=synthwave)
