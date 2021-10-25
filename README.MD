@@ -41,7 +41,6 @@ I'm currently work as a software engineer at SoftExpert and studying some things
 [<img alt="Postgres" src ="https://img.shields.io/badge/Postgres-000?logo=postgresql&logoColor=#23316192" height="25"/>][tech_tools_anchor]
 &nbsp;
 
-
 ### 🛠  Tools
 [<img alt="Docker" src="https://img.shields.io/badge/Docker-000?logo=docker&logoColor=#1572B6" height="25"/>][tech_tools_anchor]
 &nbsp;
@@ -61,6 +60,9 @@ I'm currently work as a software engineer at SoftExpert and studying some things
 [<img alt="English" src="https://img.shields.io/badge/English-000" height="25"/>][tech_tools_anchor]
 &nbsp;
 
+### 🎧  What I am listening
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🔍  Where to find me
 
@@ -77,9 +79,5 @@ I'm currently work as a software engineer at SoftExpert and studying some things
 [<img src="https://img.shields.io/badge/Counter_Strike-000?logo=counter-strike&logoColor=#000000" alt="Steam" title="Steam" height="25" />](https://csgo-stats.com/player/bruuuuuce)
 &nbsp;
 [<img src="https://img.shields.io/badge/Personal Website-000?logo=wordpress&logoColor=#000000" alt="Website" title="Website" height="25" />](https://www.wribeiiro.com/)
-
-### 🎧  What am i listening
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 [tech_tools_anchor]: #bonjour--
