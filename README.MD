@@ -1,4 +1,4 @@
-Hi Devs 🖖! I'm Wellisson Ribeiro from Brazil 🇧🇷. I'm 25 years old, married, and father of two little girls.
+Hi Devs 🖖! I'm Wellisson Ribeiro from Brazil 🇧🇷. I'm 25 years old, christian, married, and father of two little girls.
 Graduated in Analysis and Systems Development at UNOPAR 🎓.
 
 Developer with some years of experience developing applications with different technologies,
