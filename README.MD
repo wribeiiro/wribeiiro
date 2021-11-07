@@ -4,7 +4,7 @@ Graduated in Analysis and Systems Development at UNOPAR 🎓.
 Developer with some years of experience developing applications with different technologies,
 but with a focus on Back-end with PHP (Laravel, Lumen and Code Igniter Frameworks).
 
-I'm currently work as a software engineer at SoftExpert and studying some things like English 🇺🇸, Laravel 🐘 and Python 🐍 and also reading some books 📚.
+I'm currently work as a software engineer and studying some things like English 🇺🇸, Laravel 🐘 and Python 🐍 and also reading some books 📚.
 
 ### 🛠  Technologies
 
