@@ -52,11 +52,11 @@ I'm currently work as a software engineer and studying some things like English 
 
 ### 📖  What I am currently learning
 
-[<img alt="Python" src="https://img.shields.io/badge/Python-000?&logo=python&logoColor=#2314354C" height="25"/>][tech_tools_anchor]
+[<img alt="English" src="https://img.shields.io/badge/English-000" height="25"/>][tech_tools_anchor]
 &nbsp;
 [<img alt="Laravel" src="https://img.shields.io/badge/Laravel-000?&logo=laravel&logoColor=#23FF2D20" height="25"/>][tech_tools_anchor]
 &nbsp;
-[<img alt="English" src="https://img.shields.io/badge/English-000" height="25"/>][tech_tools_anchor]
+[<img alt="Python" src="https://img.shields.io/badge/Python-000?&logo=python&logoColor=#2314354C" height="25"/>][tech_tools_anchor]
 &nbsp;
 
 ### 🎧  What I am listening
