@@ -67,16 +67,6 @@ I'm currently work as a software engineer and studying some things like English 
 
 [<img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/wellisson-ribeiro)
 &nbsp;
-[<img src="https://img.shields.io/badge/Gmail-000?logo=gmail&logoColor=#D14836" alt="Gmail" title="Gmail" height="25" />](mailto:welleh10@gmail.com)
-&nbsp;
-[<img src="https://img.shields.io/badge/Xbox-000?logo=xbox&logoColor=107C10" alt="Xbox Live" title="Xbox Live" height="25" />](Wbrucewayne)
-&nbsp;
-[<img src="https://img.shields.io/badge/PlayStation-000?logo=Playstation&logoColor=#003791" alt="PSN" title="PSN" height="25" />](https://psnprofiles.com/wriibeiro)
-&nbsp;
-[<img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=white" alt="Steam" title="Steam" height="25" />](https://steamcommunity.com/id/bruuuuuce/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Counter_Strike-000?logo=counter-strike&logoColor=#000000" alt="Steam" title="Steam" height="25" />](https://csgo-stats.com/player/bruuuuuce)
-&nbsp;
 [<img src="https://img.shields.io/badge/Personal Website-000?logo=wordpress&logoColor=#000000" alt="Website" title="Website" height="25" />](https://www.wribeiiro.com/)
 
 [tech_tools_anchor]: #bonjour--
