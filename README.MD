@@ -54,8 +54,6 @@ I'm currently work as a software engineer at SoftExpert, studying some things li
 &nbsp;
 [<img alt="Laravel" src="https://img.shields.io/badge/Laravel-000?&logo=laravel&logoColor=#23FF2D20" height="25"/>][tech_tools_anchor]
 &nbsp;
-[<img alt="Python" src="https://img.shields.io/badge/Python-000?&logo=python&logoColor=#2314354C" height="25"/>][tech_tools_anchor]
-&nbsp;
 
 ### 🎧  What I am listening
 
