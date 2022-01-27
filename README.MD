@@ -1,12 +1,10 @@
-```
-
+```text
 Hi Devs 🖖! I'm Wellisson Ribeiro. Brazilian 🇧🇷, I'm 26 years old, christian, married, and father of two little girls.
 Graduated in Analysis and Systems Development at UNOPAR 🎓.
 I've been working as Developer since 2016 with different technologies, but with a focus on Back-end 
 with PHP (Laravel, Lumen and Code Igniter Frameworks).
 I'm currently work as a software engineer at SoftExpert, studying some things like 
 English 🇺🇸 and PHP ~ Laravel 🐘, also reading some books ( Design Patterns, Refactoring ) 📚.
-
 ```
 
 ### 👨🏻‍💻 Technologies
