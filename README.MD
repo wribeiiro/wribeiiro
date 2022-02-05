@@ -100,6 +100,9 @@ English 🇺🇸 and PHP ~ Laravel 🐘, also reading some books ( Design Patter
   </a>
 </p>
 
+### 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wribeiiro&theme=cobalt)
+
 ### 🎧  What I am listening
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
