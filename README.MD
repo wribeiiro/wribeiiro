@@ -7,6 +7,8 @@ I'm currently work as a software engineer at SoftExpert, studying some things li
 English 🇺🇸 and PHP ~ Laravel 🐘, also reading some books ( Design Patterns, Refactoring ) 📚.
 ```
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wribeiiro&theme=cobalt)
+
 ### 👨🏻‍💻 Technologies
 <p align="left">
   <a href="">
@@ -99,9 +101,6 @@ English 🇺🇸 and PHP ~ Laravel 🐘, also reading some books ( Design Patter
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&&logo=laravel&logoColor=8257E5"/>
   </a>
 </p>
-
-### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wribeiiro&theme=cobalt)
 
 ### 🎧  What I am listening
 
