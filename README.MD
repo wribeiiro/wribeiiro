@@ -1,7 +1,8 @@
 ```text
 Hello there! I'm Wellisson Ribeiro. Brazilian 🇧🇷, I'm 26 years old, christian, married, and father of two girls.
 I'm graduated in Analysis and Systems Development at UNOPAR 🎓.
-I've been working as Developer since 2016 with different technologies, but with a focus on Back-end with PHP ~ Laravel 🐘.
+I've been working as Developer since 2016 with different technologies, 
+but with a focus on Back-end with PHP ~ Laravel 🐘.
 I'm currently work as a software engineer at SoftExpert and studying English 🇺🇸
 ```
 
