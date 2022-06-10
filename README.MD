@@ -15,7 +15,7 @@
 ## 🧾 A little bit about me
 
 <p>My name's Wellisson Ribeiro, Brazilian 🇧🇷, 26y, christian, married, and father of two kids. I have a degree in Analysis and Systems Development at UNOPAR 🎓.</p>
-<p>I've been working as Developer since 2016 with different technologies, but nowadays my main stack is Back-end with PHP, Laravel and MySQL. I'm currently work as a Software Engineer at @SoftExpert and studying English 🇺🇸 on my free time during the week.</p>
+<p>I've being working as Developer since 2016 with different technologies, but nowadays my main stack is Back-end with PHP, Laravel and MySQL. I'm currently work as a Software Engineer at @SoftExpert and studying English 🇺🇸 on my free time during the week.</p>
 
 ### 👨🏻‍💻 Technologies and Tools
 
