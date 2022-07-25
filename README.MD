@@ -14,8 +14,9 @@
 
 ## 🧾 A little bit about me
 
-<p>My name's Wellisson Ribeiro, Brazilian 🇧🇷 26y, christian, married, and father of two kids. I have a degree in Analysis and Systems Development at UNOPAR 🎓.</p>
-<p>I've being working as Developer since 2016 with different technologies, but nowadays my main stack is Back-end with PHP, Laravel and MySQL. I'm currently work as a Software Engineer at @SoftExpert and studying English 🇺🇸 on my free time during the week.</p>
+Brazilian 🇧🇷 26y, christian, married, and father of two kids. Gratuated in Analysis and Systems Development and now, i am an english student 🇺🇸.
+I've being working as Developer since 2016 with different technologies, but currently my main stack is Back-end with PHP, Laravel and MySQL. 
+Currently i work as a Software Engineer at <a href="https://www.softexpert.com" target="_blank">SoftExpert</a>
 
 ### 👨🏻‍💻 Main Stack
 
@@ -32,7 +33,11 @@
 
 </div>
 
+![Metrics](https://metrics.lecoq.io/wribeiiro?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo)
 
-### 🎧 What I'm listening now
+### 🎧 What am i listening to now
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+### 📖 What am i reading the last few days
+- Caminhando com o Peregrino: Retratos de Porções da Imortal Alegoria de John Bunyan
