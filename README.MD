@@ -33,6 +33,8 @@ Currently i work as a Software Engineer at <a href="https://www.softexpert.com" 
 
 </div>
 
+### 📈 My Statistics
+
 ![Metrics](https://metrics.lecoq.io/wribeiiro?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo)
 
 ### 🎧 What am i listening to now
