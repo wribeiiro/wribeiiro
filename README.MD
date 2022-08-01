@@ -37,12 +37,12 @@ Currently i work as a Software Engineer at <a href="https://www.softexpert.com" 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-### 📖 What am i reading the last few days
-
-- Caminhando com o Peregrino: Retratos de Porções da Imortal Alegoria de John Bunyan
-
-### 🧩 Plus
+### 🧩 Maybe it will be useful
 
 - ⌨️ VS Code Omni Theme Custom Colors ~ Settings: <a target="_blank" href="https://gist.github.com/wribeiiro/6665089319be97b14f2a914e90a864a4">Click here</a>
 - ⚙️ Setup Specifications: <a target="_blank" href="https://gist.github.com/wribeiiro/23331348e70998486e1710a64d28893e">Click here</a>
 - 📚 Books I recommend: <a target="_blank" href="https://github.com/wribeiiro/books">Click here</a>
+
+### 📖 What am i reading the last few days
+
+- Caminhando com o Peregrino: Retratos de Porções da Imortal Alegoria de John Bunyan
