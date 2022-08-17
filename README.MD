@@ -45,4 +45,6 @@ Currently i work as a Software Engineer at <a href="https://www.softexpert.com" 
 
 ### 📖 What am i reading the last few days
 
-- Caminhando com o Peregrino: Retratos de Porções da Imortal Alegoria de John Bunyan
+- Caminhando com o Peregrino: Retratos de Porções da Imortal Alegoria de John Bunyan - Charles Spurgeon
+- Como Flechas: Preparando e projetando os filhos para o propósito divino. - Luciano & Kelly Subirá
+
