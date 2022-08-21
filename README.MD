@@ -1,3 +1,12 @@
+
+## 🧾 A little bit about me
+
+Brazilian 🇧🇷 26y, christian, married, and father of two kids. In the last few months I became an English student 🇺🇸.<br>
+I have almost 6 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend.<br>
+Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel 🐘 and Databases 🐬.
+
+## 📍If you want to know more about me
+
 <div>
   <a href="https://www.linkedin.com/in/wellisson-ribeiro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8257E5" alt="LinkedIn logo" title="LinkedIn"/>
@@ -12,16 +21,9 @@
   </a>
 </div>
 
-## 🧾 A little bit about me
-
-Brazilian 🇧🇷 26y, christian, married, and father of two kids. Gratuated in Analysis and Systems Development and now, i am an english student 🇺🇸.
-I've been working as Developer since 2016 with different technologies, but currently my main stack is Back-end with PHP, Laravel and MySQL. 
-Currently i work as a Software Engineer at <a href="https://www.softexpert.com" target="_blank">SoftExpert</a>
-
 ### 👨🏻‍💻 Main Stack
 
 <div>
-
 <img alt="PHP" src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=8257E5"/>
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&&logo=laravel&logoColor=8257E5"/>
 <img alt="JavaScript logo" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=Javascript&logoColor=8257E5" title="JavaScript" />
@@ -30,7 +32,6 @@ Currently i work as a Software Engineer at <a href="https://www.softexpert.com" 
 <img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=8257E5" title="React" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=8257E5"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/Github Actions-000?style=for-the-badge&logo=githubactions&logoColor=8257E5"/>
-
 </div>
 
 ### 🎧 What am i listening to now
