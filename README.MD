@@ -19,6 +19,10 @@ Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel
   <a href="https://stackoverflow.com/users/7039025/wribeiro" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-000?style=for-the-badge&logo=stack-overflow&logoColor=8257E5" alt="Stackoverflow" title="Stackoverflow"/>
   </a>
+  
+  <a href="https://www.codewars.com/users/wribeiiro" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-000?style=for-the-badge&logo=Codewars&logoColor=8257E5" alt="Codewars" title="Codewars"/>
+  </a>
 </div>
 
 ### 👨🏻‍💻 Main Stack
@@ -32,6 +36,18 @@ Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel
 <img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=8257E5" title="React" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=8257E5"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/Github Actions-000?style=for-the-badge&logo=githubactions&logoColor=8257E5"/>
+</div>
+
+### 👨🏻‍💻 Other knowledge, always learning
+<div>
+<img alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=8257E5"/>
+<img alt="Node" src="https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=8257E5"/>
+<img alt="VueJS" src="https://img.shields.io/badge/vuejs-000?style=for-the-badge&logo=vuedotjs&logoColor=8257E5"/>
+<img alt="jquery" src="https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery&logoColor=8257E5"/>
+<img alt="rabbitmq" src="https://img.shields.io/badge/Rabbitmq-000?style=for-the-badge&logo=rabbitmq&logoColor=8257E5"/>
+<img alt="postgres" src="https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql&logoColor=8257E5"/>
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=MariaDB&logoColor=8257E5"/>
+
 </div>
 
 ### 🎧 What am i listening to now
