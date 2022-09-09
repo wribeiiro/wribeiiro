@@ -64,6 +64,6 @@ Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel
 ### 📖 What am i reading the last few days
 
 - Migrando sistemas monolíticos para microsserviços: Padrões evolutivos para transformar seu sistema monolítico - Sam Newman
-- Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software - Susan J. Fowler
 - Como Flechas: Preparando e projetando os filhos para o propósito divino. - Luciano & Kelly Subirá
-- Caminhando com o Peregrino: Retratos de Porções da Imortal Alegoria de John Bunyan - Charles Spurgeon
+- Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software - Susan J. Fowler ✅
+- Caminhando com o Peregrino: Retratos de Porções da Imortal Alegoria de John Bunyan - Charles Spurgeon ✅
