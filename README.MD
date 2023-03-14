@@ -71,7 +71,7 @@ also i worked as fullstack most of this time, but what I really like is the back
 - Teclado: Redragon Dark Avenger
 - Webcam: Ching Ling 1080p
 - Cadeira: Stars Game Preta e Vermelha
-- Consoles
+- Consoles:
   - Playstation 5 Standard Edition 825GB
   - Playstation 4 Slim 1TB
   - Playstation 3 Super Slim 250GB
