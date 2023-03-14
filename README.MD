@@ -49,11 +49,9 @@ also i worked as fullstack most of this time, but what I really like is the back
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-## 🧩 Maybe it will be useful
-- ⌨️ VS Code Omni Theme Custom Colors ~ Settings: <a target="_blank" href="https://gist.github.com/wribeiiro/6665089319be97b14f2a914e90a864a4">Click here</a>
-- 📚 Books I recommend: <a target="_blank" href="https://github.com/wribeiiro/books">Click here</a>
 
 ## ⚙️ Setup Specifications
+
 - Processador: Amd Ryzen 5 3600 ~ 3.60GHz
 - Placa-mãe: Asus Prime B450M Gaming/BR
 - Memória: Netac Shadow 32GB DDR4 3200mhz ~ 4x8GB
