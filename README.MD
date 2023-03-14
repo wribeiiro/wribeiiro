@@ -64,7 +64,7 @@ also i worked as fullstack most of this time, but what I really like is the back
 - Monitor 1: LG Ultragear 24' Full HD 144Hz
 - Monitor 2: LG Led 22' Full HD 75Hz
 - Headset: Havit H2002d
-- Microfone: MAONO Gaming
+- Microfone: Maono Gaming
 - Mouse: Logitech G300s
 - Teclado: Redragon Dark Avenger
 - Webcam: Ching Ling 1080p
