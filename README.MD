@@ -51,5 +51,30 @@ also i worked as fullstack most of this time, but what I really like is the back
 
 ## 🧩 Maybe it will be useful
 - ⌨️ VS Code Omni Theme Custom Colors ~ Settings: <a target="_blank" href="https://gist.github.com/wribeiiro/6665089319be97b14f2a914e90a864a4">Click here</a>
-- ⚙️ Setup Specifications: <a target="_blank" href="https://gist.github.com/wribeiiro/23331348e70998486e1710a64d28893e">Click here</a>
 - 📚 Books I recommend: <a target="_blank" href="https://github.com/wribeiiro/books">Click here</a>
+
+## ⚙️ Setup Specifications
+- Processador: Amd Ryzen 5 3600 ~ 3.60GHz
+- Placa-mãe: Asus Prime B450M Gaming/BR
+- Memória: Netac Shadow 32GB DDR4 3200mhz ~ 4x8GB
+- Placa de vídeo: NVIDIA GeForce RTX 2060 Super 8GB OC Galax
+- Fonte: PCYes 500W 75+
+- Gabinete: Pichau Kazan
+- Watercooler: Water Cooler Deepcool Gammax LT120T
+- SSD M2: KingSpec 256GB
+- HDD: WD Blue 1TB
+- Monitor 1: LG Ultragear 24' Full HD 144Hz
+- Monitor 2: LG Led 22' Full HD 75Hz
+- Headset: Havit H2002d
+- Microfone: MAONO Gaming
+- Mouse: Logitech G300s
+- Teclado: Redragon Dark Avenger
+- Webcam: Ching Ling 1080p
+- Cadeira: Stars Game Preta e Vermelha
+- Consoles
+  - Playstation 5 Standard Edition 825GB
+  - Playstation 4 Slim 1TB
+  - Playstation 3 Super Slim 250GB
+  - Playstation 2 Slim With OPL
+  - Playstation 1 Fat
+  - Nintendo Switch Azul/Vermelho Neon
