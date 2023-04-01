@@ -52,8 +52,8 @@ also i worked as fullstack most of this time, but what I really like is the back
 
 ## ⚙️ Setup Specifications
 
-- Processador: Amd Ryzen 5 3600 ~ 3.60GHz
-- Placa-mãe: Asus Prime B450M Gaming/BR
+- Processador: Amd Ryzen 7 5700X ~ 3.40GHz
+- Placa-mãe: B550M Aorus Elite
 - Memória: Netac Shadow 32GB DDR4 3200mhz ~ 4x8GB
 - Placa de vídeo: NVIDIA GeForce RTX 2060 Super 8GB OC Galax
 - Fonte: PCYes 500W 75+
