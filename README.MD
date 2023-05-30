@@ -1,4 +1,4 @@
-<div>
+<div align="centeR">
   <a href="https://www.linkedin.com/in/wellisson-ribeiro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF5757" alt="LinkedIn logo" title="LinkedIn"/>
   </a>
@@ -16,17 +16,37 @@
   </a>
 </div>
 
-## A little bit about me
+### A little bit about me
 
-- Brazilian 🇧🇷 27y, christian, married, and father of two kids.
-- In the last few months I became an English student 🇺🇸.
-- I have almost 6 years of experience in the development area, I've used several different tecnologies and languages,
-also i worked as fullstack most of this time, but what I really like is the backend.
-- Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel and Databases.
+Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last few months I became an English student 🇺🇸. I have almost 7 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel and Databases.
 
-## My Stack and knowledge
+#### Expertise in:
 
-<div>
+- 🐘 PHP, Laravel, Javascript and Web development in general.
+- 🐬 MySQL and other databases.
+- 🌿 Working with Git.
+- 📚 Writing high-performance code and good practices of development.
+- ✅ Unit testing frameworks such as PHPUnit.
+- 🐛 Strong programming, refactoring and debugging skills.
+- 🔁 Continuous integration and deployment (CI/CD) environment with Github Actions.
+
+#### Other Skills:
+
+- 🔐 Web Security
+- 🌎 Experience working remotely in teams that use agile practices.
+- 📚 Independent, problem solver and I'm always with a proactive attitude.
+- 🐳 Love to write well designed, testable and efficient code.
+- 💡 Passionate self-taught and curious for creating and building things and business.
+
+#### Hobbies:
+- 🎮  CS GO Player
+- 🕹 Video Games
+- ⚽  Soccer
+- 🎸  Musician
+
+### My Stack
+
+<div align="center">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=FF5757"/>
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&&logo=laravel&logoColor=FF5757"/>
 <img alt="JavaScript logo" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=Javascript&logoColor=FF5757" title="JavaScript" />
@@ -45,12 +65,12 @@ also i worked as fullstack most of this time, but what I really like is the back
 </div>
 
 
-## 🎧 What am i listening to now
+### 🎧 What am i listening to now
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
-## ⚙️ Setup Specifications
+### ⚙️ Setup Specifications
 
 - Main:
   - Processador: Amd Ryzen 7 5700X ~ 3.40GHz
