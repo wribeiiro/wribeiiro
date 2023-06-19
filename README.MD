@@ -1,4 +1,4 @@
-<div align="centeR">
+<div align="center">
   <a href="https://www.linkedin.com/in/wellisson-ribeiro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF5757" alt="LinkedIn logo" title="LinkedIn"/>
   </a>
@@ -71,40 +71,46 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
 
 ### Setup Specifications
 
-- Main:
-  - Processador: Amd Ryzen 7 5700X ~ 3.40GHz
-  - Placa-mãe: Gigabyte B550M Aorus Elite
-  - Memória: Netac Shadow 32GB DDR4 3200mhz ~ 4x8GB
-  - Placa de vídeo: NVIDIA GeForce RTX 2060 Super 8GB OC Galax
-  - Fonte: PCYes 500W 75+
-  - Gabinete: Pichau Kazan
+<details>
+<summary>Main</summary>
+
+  - Cpu: Amd Ryzen 7 5700X ~ 3.40GHz
+  - Gpu: NVIDIA GeForce RTX 2060 Super 8GB OC Galax
+  - Mobo: Gigabyte B550M Aorus Elite
+  - Ram: Netac Shadow 32GB DDR4 3200mhz ~ 4x8GB
+  - Psu: PCYes 500W 75+
+  - Case: Pichau Kazan
   - Watercooler: Water Cooler Deepcool Gammax LT120T
   - SSD M2: KingSpec 256GB
   - HDD: WD Blue 1TB
   - Monitor 1: LG Ultragear 24' Full HD 144Hz
   - Monitor 2: LG Led 22' Full HD 75Hz
   - Headset: Havit H2002d
-  - Microfone: Maono Gaming RGB
+  - Mic: Maono Gaming RGB
   - Mouse: Logitech G300s
-  - Teclado: Redragon Dark Avenger
-  - Webcam: Ching Ling 1080p
-  - Cadeira: Stars Game Preta e Vermelha
+  - Keyboard: Redragon Dark Avenger
+  - Cam: Ching Ling 1080p
+  - Chair: Stars Game Black and Red
   - Consoles:
     - Playstation 5 Standard Edition 825GB
     - Playstation 4 Slim 1TB
     - Playstation 3 Super Slim 250GB
     - Playstation 2 Slim With OPL
     - Playstation 1 Fat
-    - Nintendo Switch Azul/Vermelho Neon
+    - Nintendo Switch Blue/Red Neon
+</details>
 
-- Backup:
-  - Processador: Intel Xeon E5 2620v3 2.4ghz
-  - Placa-mãe: QIYIDA ed4 LGA2011-3
-  - Memória: QIYIDA 16GB DDR4 3200mhz
-  - Placa de vídeo: AMD Radeon RX 550 2GB GDDR5
-  - Fonte: Fortrek Crusader 300w
-  - Gabinete: TGT Archer
+<details>
+<summary>Backup</summary>
+
+  - Cpu: Intel Xeon E5 2620v3 2.4ghz
+  - Gpu: AMD Radeon RX 550 2GB GDDR5
+  - Mobo: QIYIDA ed4 LGA2011-3
+  - Ram: QIYIDA 16GB DDR4 3200mhz
+  - Psu: Fortrek Crusader 300w
+  - Case: TGT Archer
   - Aircooler: T-Dagger Idun R 90mm
   - SSD: Weijinto 240GB
   - HDD: WD Blue 1TB
   - Monitor: LG Ultrawide 29' Full HD 75Hz
+</details>
