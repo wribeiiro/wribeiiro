@@ -40,9 +40,10 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
 
 #### Hobbies:
 - 🎮  CS GO Player
-- 🕹 Video Games
+- 🕹  Video Games
 - ⚽  Soccer
 - 🎸  Musician
+- 📚  Books
 
 ### My Stack
 
