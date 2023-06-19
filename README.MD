@@ -65,11 +65,9 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=MariaDB&logoColor=FF5757"/>
 </div>
 
-
-### 🎧 What am i listening to now
+### What am i listening to now
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
 
 ### Setup Specifications
 
