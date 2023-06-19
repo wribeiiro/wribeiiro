@@ -43,7 +43,7 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
 - 🕹  Video Games
 - ⚽  Soccer
 - 🎸  Musician
-- 📚  Books
+- 📚  Books: Reading The Chronicles of Narnia
 
 ### My Stack
 
