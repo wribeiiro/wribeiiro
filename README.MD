@@ -45,7 +45,7 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
 - 🎸  Musician
 - 📚  Books: Reading The Chronicles of Narnia
 
-### My Stack
+### Stack
 
 <div align="center">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=FF5757"/>
@@ -71,7 +71,7 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
-### ⚙️ Setup Specifications
+### Setup Specifications
 
 - Main:
   - Processador: Amd Ryzen 7 5700X ~ 3.40GHz
