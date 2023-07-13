@@ -44,7 +44,7 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
 - ⚽  Soccer
 - 🎸  Guitar
 - 🎵 Music
-- 📚  Books: Reading The Chronicles of Narnia
+- 📚  Books: Reading: Desconecte-se. Uma jornada de volta a vida real. - Richarde Guerra
 
 ### Stack
 
