@@ -39,12 +39,12 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
 - 💡 Passionate self-taught and curious for creating and building things and business.
 
 #### Hobbies:
-- 🎮  CS GO Player
-- 🕹  Video Games
-- ⚽  Soccer
-- 🎸  Guitar
+- 🎮 CS GO Player
+- 🕹 Video Games
+- ⚽ Soccer
+- 🎸 Guitar
 - 🎵 Music
-- 📚  Books: Reading: Desconecte-se. Uma jornada de volta a vida real. - Richarde Guerra
+- 📚 Books: Reading: A família em meio à tormenta: Como a cruz redefine o lar - Russell Moore.
 
 ### Stack
 
