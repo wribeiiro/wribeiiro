@@ -44,7 +44,7 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
 - ⚽ Soccer
 - 🎸 Guitar
 - 🎵 Music
-- 📚 Books: Reading: A família em meio à tormenta: Como a cruz redefine o lar - Russell Moore.
+- 📚 Books: Reading: Até que nada mais importe - Luciano Subirá.
 
 ### Stack
 
