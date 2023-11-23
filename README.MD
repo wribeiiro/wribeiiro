@@ -85,7 +85,7 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
   - SSD M2: KingSpec 256GB
   - HDD: WD Blue 1TB
   - Monitor 1: LG Ultragear 24' Full HD 144Hz
-  - Monitor 2: LG Led 22' Full HD 75Hz
+  - Monitor 2: LG Ultrawide 29' Full HD 75Hz
   - Headset: Havit H2002d
   - Mic: Maono Gaming RGB
   - Mouse: Logitech G300s
@@ -111,7 +111,7 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
   - Psu: Fortrek Crusader 300w
   - Case: TGT Archer
   - Aircooler: T-Dagger Idun R 90mm
-  - SSD: Weijinto 240GB
+  - SSD: Kingston 240GB
   - HDD: WD Blue 1TB
-  - Monitor: LG Ultrawide 29' Full HD 75Hz
+  - Monitor: LG Led 22' Full HD 75Hz
 </details>
