@@ -91,7 +91,7 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
   - Mouse: Logitech G300s
   - Keyboard: Redragon Dark Avenger
   - Cam: Ching Ling 1080p
-  - Chair: Stars Game Black and Red
+  - Chair: ThunderX3 YAMA1 Ergonômica Black/Red
   - Consoles:
     - Playstation 5 Standard Edition 825GB
     - Playstation 4 Slim 1TB
