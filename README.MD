@@ -76,7 +76,7 @@ Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last 
 <summary>Main</summary>
 
   - Cpu: Amd Ryzen 7 5700X ~ 3.40GHz
-  - Gpu: NVIDIA GeForce RTX 2060 Super 8GB OC Galax
+  - Gpu: NVIDIA GeForce RTX 3060 12GB Inno3D
   - Mobo: Gigabyte B550M Aorus Elite
   - Ram: Netac Shadow 32GB DDR4 3200mhz ~ 4x8GB
   - Psu: PCYes 500W 75+
