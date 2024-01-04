@@ -18,7 +18,7 @@
 
 ### A little bit about me
 
-Brazilian 🇧🇷 27y, christian, married, and father of two kids. In the last few months I became an English student 🇺🇸. I have almost 7 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel and Databases.
+Brazilian 🇧🇷 27y, christian, married, and father of two kids. I have almost 7 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel and Databases.
 
 #### Expertise in:
 
