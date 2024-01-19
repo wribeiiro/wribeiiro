@@ -72,9 +72,7 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
 
 ### Setup Specifications
 
-<details>
-<summary>Main</summary>
-
+##### Main
   - Cpu: Amd Ryzen 7 5700X ~ 3.40GHz
   - Gpu: NVIDIA GeForce RTX 3060 12GB Inno3D
   - Mobo: Gigabyte B550M Aorus Elite
@@ -99,11 +97,8 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
     - Playstation 2 Slim With OPL
     - Playstation 1 Fat
     - Nintendo Switch Blue/Red Neon
-</details>
 
-<details>
-<summary>Backup</summary>
-
+#### Backup
   - Cpu: Intel Xeon E5 2620v3 2.4ghz
   - Gpu: AMD Radeon RX 550 2GB GDDR5
   - Mobo: QIYIDA ed4 LGA2011-3
@@ -114,4 +109,3 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
   - SSD: Kingston 240GB
   - HDD: WD Blue 1TB
   - Monitor: LG Led 22' Full HD 75Hz
-</details>
