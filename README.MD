@@ -44,7 +44,7 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
 - ⚽ Soccer
 - 🎸 Guitar
 - 🎵 Music
-- 📚 Books: Reading: Até que nada mais importe - Luciano Subirá.
+- 📚 Books: Reading: A História do Avivamento Azusa | Frank Bartlenan.
 
 ### Stack
 
@@ -88,7 +88,7 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
   - Monitor 2: LG Ultrawide 29' Full HD 75Hz
   - Headset: Havit H2002d
   - Mic: Maono Gaming RGB
-  - Mouse: Logitech G300s
+  - Mouse: Logitech G305 LightSpeed
   - Keyboard: Redragon Dark Avenger
   - Cam: Ching Ling 1080p
   - Chair: ThunderX3 YAMA1 Ergonômica Black/Red
