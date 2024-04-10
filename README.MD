@@ -44,7 +44,7 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
 - ⚽ Soccer
 - 🎸 Guitar
 - 🎵 Music
-- 📚 Books: Reading: A História do Avivamento Azusa | Frank Bartlenan.
+- 📚 Books
 
 ### Stack
 
