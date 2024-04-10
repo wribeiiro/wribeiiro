@@ -73,24 +73,24 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
 ### Setup Specifications
 
 ##### Main
-  - Cpu: Amd Ryzen 7 5700X
-  - Gpu: NVIDIA GeForce RTX 3060 12GB Inno3D
-  - Mobo: Gigabyte B550M Aorus Elite
-  - Ram: Netac Shadow 32GB DDR4 3200mhz ~ 4x8GB
-  - Psu: PCYes 500W 75+
-  - Case: Pichau Kazan
-  - Watercooler: Deepcool Gammax LT120T
+  - CPU: AMD Ryzen 7 5700X
+  - GPU: NVIDIA GeForce RTX 3060 12GB Inno3D
+  - MOBO: Gigabyte B550M Aorus Elite
+  - RAM: Netac Shadow 32GB DDR4 3200mhz ~ 4x8GB
+  - PSU: PCYes 500W 75+
+  - CASE: Pichau Kazan
+  - WATERCOOLER: Deepcool Gammax LT120T
   - SSD M2: KingSpec 256GB
   - HDD: WD Blue 1TB
-  - Monitor 1: LG Ultragear 24' Full HD 144Hz
-  - Monitor 2: LG Ultrawide 29' Full HD 75Hz
-  - Headset: Havit H2002d
-  - Mic: Maono Gaming RGB
-  - Mouse: Logitech G305 LightSpeed
-  - Keyboard: Redragon Dark Avenger
-  - Cam: Ching Ling 1080p
-  - Chair: ThunderX3 YAMA1 Ergonômica Black/Red
-  - Consoles:
+  - MONITOR 1: LG Ultragear 24' Full HD 144Hz
+  - MONITOR 2: LG Ultrawide 29' Full HD 75Hz
+  - HEADSET: Havit H2002d
+  - MIC: Maono Gaming RGB
+  - MOUSE: Logitech G305 LightSpeed
+  - KEYBOARD: Redragon Dark Avenger
+  - CAM: Ching Ling 1080p
+  - CHAIR: ThunderX3 YAMA1 Ergonômica Black/Red
+  - CONSOLES:
     - Playstation 5 Standard Edition 825GB
     - Playstation 4 Slim 1TB
     - Playstation 3 Super Slim 250GB
