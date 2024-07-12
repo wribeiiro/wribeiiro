@@ -68,7 +68,7 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
 
 ### What am i listening to now
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ee445e&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=itd9eq7e1e947txikhoq350jh&redirect=true)
 
 ### Setup Specifications
 
