@@ -3,6 +3,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF5757" alt="LinkedIn logo" title="LinkedIn"/>
   </a>
 
+  <a href="https://steamcommunity.com/id/wr07" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=Steam&logoColor=FF5757" alt="Steam" title="Steam"/>
+  </a>
+  
   <a href="https://www.wribeiiro.com" target="_blank">
     <img src="https://img.shields.io/badge/Personal Website-000?style=for-the-badge&logo=wordpress&logoColor=FF5757" alt="Website" title="Website"/>
   </a>
@@ -39,12 +43,13 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
 - 💡 Passionate self-taught and curious for creating and building things and business.
 
 #### Hobbies:
-- 🎮 CS GO Player
+- 🎮 Counter Strike
 - 🕹 Video Games
 - ⚽ Soccer
 - 🎸 Guitar
 - 🎵 Music
 - 📚 Books
+- 🎥 Movies / Series
 
 ### Stack
 
