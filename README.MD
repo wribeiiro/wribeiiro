@@ -92,7 +92,7 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
   - HEADSET: Havit H2002d
   - MIC: Maono Gaming RGB
   - MOUSE: Logitech G305 LightSpeed
-  - KEYBOARD: Redragon Dark Avenger
+  - KEYBOARD: Redragon Kumara Pro Wireless ~ Switch Brown
   - CAM: Ching Ling 1080p
   - CHAIR: ThunderX3 YAMA1 Ergonômica Black/Red
   - CONSOLES:
