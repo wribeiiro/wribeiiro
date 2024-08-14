@@ -91,8 +91,8 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
   - MONITOR 2: LG Ultrawide 29' Full HD 75Hz
   - HEADSET: Havit H2002d
   - MIC: Maono Gaming RGB
-  - MOUSE: Logitech G305 LightSpeed
-  - KEYBOARD: Redragon Kumara Pro Wireless ~ Switch Brown
+  - MOUSE: Logitech G305 LightSpeed Wireless
+  - KEYBOARD: Redragon Kumara Pro Wireless
   - CAM: Ching Ling 1080p
   - CHAIR: ThunderX3 YAMA1 Ergonômica Black/Red
   - CONSOLES:
