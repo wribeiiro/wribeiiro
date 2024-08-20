@@ -51,26 +51,6 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
 - 📚 Books
 - 🎥 Movies / Series
 
-### Stack
-
-<div align="center">
-<img alt="PHP" src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=FF5757"/>
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&&logo=laravel&logoColor=FF5757"/>
-<img alt="JavaScript logo" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=Javascript&logoColor=FF5757" title="JavaScript" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=FF5757"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=FF5757"/>
-<img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=FF5757" title="React" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=FF5757"/>
-<img alt="GitHub Actions" src="https://img.shields.io/badge/Github Actions-000?style=for-the-badge&logo=githubactions&logoColor=FF5757"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FF5757"/>
-<img alt="Node" src="https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=FF5757"/>
-<img alt="VueJS" src="https://img.shields.io/badge/vuejs-000?style=for-the-badge&logo=vuedotjs&logoColor=FF5757"/>
-<img alt="jquery" src="https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery&logoColor=FF5757"/>
-<img alt="rabbitmq" src="https://img.shields.io/badge/Rabbitmq-000?style=for-the-badge&logo=rabbitmq&logoColor=FF5757"/>
-<img alt="postgres" src="https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql&logoColor=FF5757"/>
-<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=MariaDB&logoColor=FF5757"/>
-</div>
-
 ### What am i listening to now
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ee445e&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=itd9eq7e1e947txikhoq350jh&redirect=true)
