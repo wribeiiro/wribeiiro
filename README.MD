@@ -8,7 +8,7 @@
   </a>
   
   <a href="https://www.wribeiiro.com" target="_blank">
-    <img src="https://img.shields.io/badge/Personal Website-000?style=for-the-badge&logo=wordpress&logoColor=FF5757" alt="Website" title="Website"/>
+    <img src="https://img.shields.io/badge/Page-000?style=for-the-badge&logo=wordpress&logoColor=FF5757" alt="Website" title="Website"/>
   </a>
 
   <a href="https://stackoverflow.com/users/7039025/wribeiro" target="_blank">
