@@ -50,6 +50,7 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
 - 🎵 Music
 - 📚 Books
 - 🎥 Movies / Series
+- 🇺🇸 Learning English
 
 ### What am i listening to now
 
