@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://stackoverflow.com/users/7039025/wribeiro" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-000?style=for-the-badge&logo=stack-overflow&logoColor=FF5757" alt="Stackoverflow" title="Stackoverflow"/>
+    <img src="https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube&logoColor=FF5757" alt="Youtube" title="Youtube"/>
   </a>
 
   <a href="https://www.codewars.com/users/wribeiiro" target="_blank">
@@ -22,7 +22,7 @@
 
 <br>
 
-Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almost 8 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel and Databases.
+Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almost 8 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel, Databases and Web in general.
 
 #### Expertise in:
 
