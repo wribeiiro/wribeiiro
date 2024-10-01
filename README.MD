@@ -80,6 +80,7 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
     - Playstation 5 Standard Edition 825GB
     - Playstation 4 Slim 1TB
     - Playstation 3 Super Slim 250GB
-    - Playstation 2 Slim With OPL
+    - Playstation 2 Slim OPL
     - Playstation 1 Fat
     - Nintendo Switch Blue/Red Neon
+    - Super Nintendo
