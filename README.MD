@@ -22,7 +22,7 @@
 
 <br>
 
-Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almost 8 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP, Laravel, Databases and Web in general.
+Brazilian 🇧🇷 28y, christian, married, and father of two. I have 8 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP ecosystem, Databases and Web in general.
 
 #### Expertise in:
 
@@ -43,14 +43,14 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
 - 💡 Passionate self-taught and curious for creating and building things and business.
 
 #### Hobbies:
-- 🎮 Counter Strike
-- 🕹 Video Games
+
+- 🎮 Video Games
 - ⚽ Soccer
 - 🎸 Guitar
 - 🎵 Music
 - 📚 Books
 - 🎥 Movies / Series
-- 🇺🇸 Learning English
+- 🇺🇸 English
 
 ### What am i listening to now
 
@@ -58,29 +58,28 @@ Brazilian 🇧🇷 28y, christian, married, and father of two kids. I have almos
 
 ### Setup Specifications
 
-##### Main
-  - CPU: AMD Ryzen 7 5700X
-  - GPU: NVIDIA GeForce RTX 3060 12GB Inno3D
-  - MOBO: Gigabyte B550M Aorus Elite
-  - RAM: Netac Shadow 32GB DDR4 3200mhz ~ 4x8GB
-  - PSU: PCYes 500W 75+
-  - CASE: Pichau Kazan
-  - WATERCOOLER: Deepcool Gammax LT120T
-  - SSD M2: KingSpec 256GB
-  - HDD: WD Blue 1TB
-  - MONITOR 1: LG Ultragear 24' Full HD 144Hz
-  - MONITOR 2: LG Ultrawide 29' Full HD 75Hz
-  - HEADSET: Havit H2002d
-  - MIC: Maono Gaming RGB
-  - MOUSE: Logitech G305 LightSpeed Wireless
-  - KEYBOARD: Redragon Kumara Pro Wireless
-  - CAM: Ching Ling 1080p
-  - CHAIR: ThunderX3 YAMA1 Ergonômica Black/Red
-  - CONSOLES:
+  - **Cpu:** AMD Ryzen 7 5700X
+  - **Gpu:** NVIDIA GeForce RTX 3060 12GB Inno3D
+  - **Mobo:** Gigabyte B550M Aorus Elite
+  - **Ram:** Netac Shadow 32GB DDR4 3200mhz ~ 4x8GB
+  - **Psu:** PCYes 500W 75+
+  - **Case:** Pichau Kazan
+  - **Watercooler:** Deepcool Gammax LT120T
+  - **Ssd M2:** KingSpec 256GB
+  - **Hdd:** WD Blue 1TB
+  - **Monitor 1:** LG Ultragear 24' Full HD 144Hz
+  - **Monitor 2:** LG Ultrawide 29' Full HD 75Hz
+  - **Headset:** Havit H2002d
+  - **Mic:** Maono Gaming RGB
+  - **Mouse:** Logitech G305 LightSpeed Wireless
+  - **Keyboard:** Redragon Kumara Pro Wireless
+  - **Cam:** Ching Ling 1080p
+  - **Chair:** ThunderX3 YAMA1 Ergonômica Black/Red
+  - **Consoles:**
     - Playstation 5 Standard Edition 825GB
     - Playstation 4 Slim 1TB
     - Playstation 3 Super Slim 250GB
     - Playstation 2 Slim OPL
     - Playstation 1 Fat
     - Nintendo Switch Blue/Red Neon
-    - Super Nintendo
+    - Super Nintendo Original
