@@ -1,28 +1,8 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/wellisson-ribeiro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF5757" alt="LinkedIn logo" title="LinkedIn"/>
-  </a>
-
-  <a href="https://steamcommunity.com/id/wr07" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=Steam&logoColor=FF5757" alt="Steam" title="Steam"/>
-  </a>
-  
-  <a href="https://www.wribeiiro.com" target="_blank">
-    <img src="https://img.shields.io/badge/Page-000?style=for-the-badge&logo=wordpress&logoColor=FF5757" alt="Website" title="Website"/>
-  </a>
-
-  <a href="https://stackoverflow.com/users/7039025/wribeiro" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube&logoColor=FF5757" alt="Youtube" title="Youtube"/>
-  </a>
-
-  <a href="https://www.codewars.com/users/wribeiiro" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-000?style=for-the-badge&logo=Codewars&logoColor=FF5757" alt="Codewars" title="Codewars"/>
-  </a>
-</div>
-
-<br>
-
 Brazilian 🇧🇷 28y, christian, married, and father of two. I have 8 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP ecosystem, Databases and Web in general.
+
+Let's connect and build the future together! 🌟
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/wellisson-ribeiro)](https://www.linkedin.com/in/wellisson-ribeiro) [![Steam](https://img.shields.io/badge/Steam-000?logo=Steam&style=social)](https://steamcommunity.com/id/wr07) [![GitHub wribeiiro](https://img.shields.io/github/followers/wribeiiro?label=follow&style=social)](https://github.com/wribeiiro) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLFsW2CD0JetkdotkueWU6g?style=social)](https://www.youtube.com/@wribeiro07) [![Codewars](https://img.shields.io/badge/Codewars-000?style=social&logo=Codewars)](https://www.codewars.com/users/wribeiiro)
 
 #### Expertise in:
 
@@ -52,7 +32,7 @@ Brazilian 🇧🇷 28y, christian, married, and father of two. I have 8 years of
 - 🎥 Movies / Series
 - 🇺🇸 English
 
-### What am i listening to now
+#### What am i listening to now
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=itd9eq7e1e947txikhoq350jh&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ee445e&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=itd9eq7e1e947txikhoq350jh&redirect=true)
 
@@ -82,4 +62,4 @@ Brazilian 🇧🇷 28y, christian, married, and father of two. I have 8 years of
     - Playstation 2 Slim OPL
     - Playstation 1 Fat
     - Nintendo Switch Blue/Red Neon
-    - Super Nintendo Original
+    - Super Nintendo Clássico
