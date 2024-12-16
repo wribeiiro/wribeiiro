@@ -49,7 +49,7 @@ Let's connect and build the future together! 🌟
   - **Hdd:** WD Blue 1TB
   - **Monitor 1:** LG Ultragear 24' Full HD 144Hz
   - **Monitor 2:** LG Ultrawide 29' Full HD 75Hz
-  - **Headset:** Havit H2002d
+  - **Headset:** Redragon Zeus Pro Wireless
   - **Mic:** Maono Gaming RGB
   - **Mouse:** Logitech G305 LightSpeed Wireless
   - **Keyboard:** Redragon Kumara Pro Wireless
