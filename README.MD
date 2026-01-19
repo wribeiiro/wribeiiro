@@ -1,4 +1,4 @@
-Brazilian 🇧🇷 29y, christian, married, and daddy of three. I have 9 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP ecosystem, Databases and Web in general.
+Brazilian 🇧🇷, christian, married, and daddy of three. I have 9 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP ecosystem, Databases and Web in general.
 
 Let's connect and build the future together! 🌟
 
