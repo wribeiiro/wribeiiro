@@ -1,36 +1,18 @@
-Brazilian 🇧🇷, christian, married, and daddy of three. I have 9 years of experience in the development area, I've used several different tecnologies and languages, also i worked as fullstack most of this time, but what I really like is the backend. Currently I'm Software Engineer at SoftExpert. I'm passionate about PHP ecosystem, Databases and Web in general.
+Senior Software Engineer with 9+ years of experience building and evolving web applications, working across backend and frontend — with a strong focus on backend engineering, scalability, performance, and maintainable code.
 
-Let's connect and build the future together! 🌟
+Currently, I work at SoftExpert, contributing to solutions for Management and Business Compliance, and supporting developers with day-to-day problem solving, architectural decisions, and technical improvements across the product.
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/wellisson-ribeiro)](https://www.linkedin.com/in/wellisson-ribeiro) [![Steam](https://img.shields.io/badge/Steam-000?logo=Steam&style=social)](https://steamcommunity.com/id/wr07) [![GitHub wribeiiro](https://img.shields.io/github/followers/wribeiiro?label=follow&style=social)](https://github.com/wribeiiro) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLFsW2CD0JetkdotkueWU6g?style=social)](https://www.youtube.com/@wribeiro07) [![Codewars](https://img.shields.io/badge/Codewars-000?style=social&logo=Codewars)](https://www.codewars.com/users/wribeiiro)
+Core strengths
+- Backend development with PHP (architecture, high-performance code, maintainability)
+- SQL & relational databases (data modeling, query optimization, reliability)
+- APIs and integrations for complex business rules
+- Code reviews, refactoring, debugging, and best practices
+- Automated testing (PHPUnit) and CI/CD pipelines (GitHub Actions)
 
-#### Expertise in:
+Tech & Tools
+PHP • Laravel • Databases • JavaScript • React • Git • CI/CD • Web Security
 
-- 🐘 PHP, Laravel, Javascript and Web development in general.
-- 🐬 MySQL and other databases.
-- 🌿 Working with Git.
-- 📚 Writing high-performance code and good practices of development.
-- ✅ Unit testing frameworks such as PHPUnit.
-- 🐛 Strong programming, refactoring and debugging skills.
-- 🔁 Continuous integration and deployment (CI/CD) environment with Github Actions.
-
-#### Other Skills:
-
-- 🔐 Web Security
-- 🌎 Experience working remotely in teams that use agile practices.
-- 📚 Independent, problem solver and I'm always with a proactive attitude.
-- 🐳 Love to write well designed, testable and efficient code.
-- 💡 Passionate self-taught and curious for creating and building things and business.
-
-#### Hobbies:
-
-- 🎮 Video Games
-- ⚽ Soccer
-- 🎸 Guitar
-- 🎵 Music
-- 📚 Books
-- 🎥 Movies / Series
-- 🇺🇸 English
+Outside of work, I’m a husband and a proud dad of three daughters 👨‍👩‍👧‍👧‍👧
 
 #### What am i listening to now
 
