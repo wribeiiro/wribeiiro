@@ -13,7 +13,8 @@ Currently, I work at SoftExpert, contributing to solutions for Management and Bu
 PHP • Laravel • Databases • JavaScript • React • Git • CI/CD • Web Security
 
 ### Cool fact
-Outside of work, I’m a husband and a proud dad of three daughters 👨‍👩‍👧‍👧‍👧
+- I recently started writing articles for [Dev.to](https://dev.to/wribeiiro)
+- Outside of work, I’m a husband and a proud dad of three daughters 👨‍👩‍👧‍👧‍👧
 
 ### Setup Specifications
 
