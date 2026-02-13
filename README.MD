@@ -10,14 +10,16 @@ Currently, I work at SoftExpert, contributing to solutions for Management and Bu
 - Automated testing (PHPUnit) and CI/CD pipelines (GitHub Actions)
 
 ### Tech & Tools
-PHP • Laravel • Databases • JavaScript • React • Git • CI/CD • Web Security
+PHP • Laravel • AWS (EC2, S3, RDS) • Databases • JavaScript • Git • CI/CD • Web Security
 
-### Cool fact
+### Curiosities about me
 - I recently started writing articles for [Dev.to](https://dev.to/wribeiiro)
-- Outside of work, I’m a husband and a proud dad of three daughters 👨‍👩‍👧‍👧‍👧
+- Outside of work, I’m a husband and a **proud dad** of three daughters.
+- My favorite franchise is **Resident Evil**.
+- I almost became a professional **soccer player**.
+- I'm a **musician**.
 
 ### Setup Specifications
-
   - **Cpu:** AMD Ryzen 7 5700X
   - **Gpu:** NVIDIA GeForce RTX 3060 12GB Inno3D
   - **Mobo:** Gigabyte B550M Aorus Elite
