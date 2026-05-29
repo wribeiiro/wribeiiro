@@ -1,37 +1,57 @@
-I have over 10 years of experience designing, building, and evolving web applications, working across backend and frontend with a strong emphasis on backend architecture, performance, and reliability.
+Senior Software Engineer with 10+ years of experience designing, building and evolving enterprise web applications, with a strong focus on backend systems, architecture and reliability.
 
-Currently working as Senior Software Engineer at **SoftExpert**, contributing to enterprise solutions for management systems and business compliance platforms, helping improve platform capabilities, system reliability, and developer productivity.
+Currently working at SoftExpert, contributing to enterprise management and compliance platforms, improving system capabilities, scalability and developer productivity.
 
-### Areas of Expertise
+Beyond product delivery, I frequently collaborate with engineering teams, contribute to technical direction and help solve engineering challenges, supporting platform evolution and engineering practices.
 
-- Backend Engineering — design and development of scalable backend systems
-- Software Architecture — maintainable and modular application design
-- Relational Databases
-- SQL Performance & Query Optimization
-- API Design & System Integrations
-- Code Quality & Maintainability - refactoring, reviews and engineering best practices
-- Performance Optimization for database and backend workloads
-- Automated Testing
-- DevOps & Infrastructure — AWS (EC2, S3, RDS), Docker, CI/CD pipelines
-- Security practices for web applications
+## Tech Stack
 
-### Current Focus
+Backend
+- PHP
+- JAVA
+- NODE.js
+- APIs & integrations
+- Backend architecture
 
-- Backend architecture for enterprise systems
-- AI-powered features in backend applications
-- LLMs integration in business platforms
-- Performance and reliability improvements
-- Developer productivity and platform engineering
+Frontend
+- React
+- TypeScript
+- Tailwind
 
-### Engineering Interests
+Databases
+- PostgreSQL
+- Oracle
+- SQL Server
+- MySQL
+- Query tuning & optimization
+
+Infrastructure
+- AWS (EC2, S3, RDS)
+- Docker
+- CI/CD
+- GIT
+- NGINX
+
+AI & Automation
+- LLM integrations
+- AI-powered backend features
+- Intelligent workflows
+
+## Current Focus
+
+- Enterprise backend architecture
+- Performance and reliability
+- Platform engineering
+- AI-powered enterprise systems
+- Developer productivity
+
+## Engineering Interests
 
 - Scalable backend systems
-- High performance database queries
-- Maintainable software architecture
-- Code quality and refactoring strategies
-- Backend applications integrating Artificial Intelligence
-- LLMs in enterprise applications
-- AI-powered automation and intelligent workflows
+- High-performance databases
+- Software architecture
+- AI-assisted development
+- Maintainable systems and code quality
 
 ### Some things about myself
 
