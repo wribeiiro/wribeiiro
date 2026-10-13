@@ -1,23 +1,31 @@
+### Experience and Work
+
 Senior Software Engineer with 10 years of experience in software development, focused on backend engineering, software architecture, and complex enterprise systems.
 
-Areas of focus:
+[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://media.licdn.com/dms/image/v2/D4D0BAQExTcQZSGfiPg/company-logo_400_400/B4DZVHZdY5HYAY-/0/1740659611633/softexpert_software_logo?e=1793232000&v=beta&t=n0xEW2lWD1d0k1wTVFO_hivZldria3HjGiWTyVqQ46U"/>](https://www.softexpert.com/en/)
 
-- Software architecture and system design
-- Backend engineering and API development
-- Technical strategy and architectural decisions
-- Complex problem-solving and performance optimization
-- Code reviews and cross-team technical guidance
-- Knowledge sharing and AI-assisted development workflows
+**Senior Software Engineer** \
+[**SoftExpert**](https://www.softexpert.com/en/) • Full-time • Current \
+Software architecture, technical leadership, complex problem-solving, and AI-assisted engineering workflows for enterprise systems. \
+Stack: `PHP`, `Java`, `SQL`, `JavaScript`, `React`, `Docker`, `AWS`, `PostgreSQL`, `Oracle`, `SQL Server`, `AI Development Tools` \
+<br/>
 
-How i contribute:
+[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://media.licdn.com/dms/image/v2/D4D0BAQExTcQZSGfiPg/company-logo_400_400/B4DZVHZdY5HYAY-/0/1740659611633/softexpert_software_logo?e=1793232000&v=beta&t=n0xEW2lWD1d0k1wTVFO_hivZldria3HjGiWTyVqQ46U"/>](https://www.softexpert.com/en/)
 
-- Design maintainable solutions for complex business requirements.
-- Support technical decisions across teams.
-- Act as a technical reference for code reviews, solution design, and problem-solving.
-- Contribute to roadmap discussions and engineering improvements.
-- Explore technologies that improve productivity without compromising code quality.
+**Software Engineer** \
+[**SoftExpert**](https://www.softexpert.com/en/) • Full-time \
+Full-stack development, REST APIs, database optimization, and software quality for enterprise applications. \
+Stack: `PHP`, `PHPUnit`, `Doctrine`, `Java`, `JavaScript`, `React`, `REST APIs`, `PostgreSQL`, `Oracle`, `SQL Server`, `Docker`, `Git`, `GitLab`
 
-Stack:
-PHP, PHPUnit, Doctrine, Java, REST APIs, JavaScript, React, Node, Databases (PostgreSQL, Oracle, SQL Server), Docker, Git, GitLab.
+<br/>
 
-I’m interested in individual contributor opportunities where I can contribute through architecture, technical depth, engineering excellence, and cross-team technical leadership.
+[<img align="left" height="94px" width="94px" alt="adminformatica" src="https://www.adminformatica.com.br/assets/images/logo_preto_adm.png"/>](https://adminformatica.com.br/)
+
+**Full Stack Developer** \
+[**ADM Informática**](https://adminformatica.com.br/) • Full-time \
+Developed and maintained web and desktop applications for business management and electronic invoicing, including integrations with internal and third-party APIs.
+Stack: `PHP`, `C#`, `Visual Basic 5`, `Java`, `MySQL`, `CodeIgniter`, `Ionic 3`
+<br/>
+<br/>
+
+For a more comprehensive overview of my professional journey, experience, education, and certifications, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wellisson-ribeiro/)
